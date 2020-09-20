@@ -3,7 +3,7 @@
 <day:yesterday> is gone, <day:tomorrow> is <pos_definite_singular:a mystery>, <day:today> is <pos_definite_singular:a blessing>.
 <neg_definite_singular:a difficult road> often leads to <pos_indefinite_plural:beautiful destinations>. good morning!
 <neg_imperative_passive:worrying> doesn't take away <day:tomorrow>'s <neg_indefinite_plural:troubles>, it takes away <day:today>'s peace. good morning.
-<neg_indefinite_singular:loneliness> is <pos_definite_singular:a special enjoyment> when chosen by our self.. but hard to digest when gifted by others... good morning!
+<neg_indefinite_singular:loneliness> is <pos_definite_singular:a special enjoyment> when chosen by ourselves, but hard to digest when gifted by others... good morning!
 <pos_definite_singular:a beautiful life> does not just happen. it is built daily by <pos_indefinite_plural:prayers>, humility, sacrifice and love. good morning!
 <pos_definite_singular:a good morning text> doesn't only mean "good morning". it has a silent message that says "i think of you when i <pos_infinitive_imperative:wake up>".
 <pos_definite_singular:a happy person> is happy, not because everything is right in his life. he is happy because his attitude towards everything in his life is right. good morning.
@@ -30,7 +30,7 @@
 <pos_infinitive_imperative:rise up>, <pos_infinitive_imperative:start fresh>, <pos_infinitive_imperative:see the bright opportunity in each day>.
 <pos_infinitive_imperative:smile in the mirror>. do that every <time_indefinite:morning>, and you'll start to see a big difference in <thing_possessive_singular:your life>.
 <pos_infinitive_imperative:think about the dreams you had last night> to make <thing_possessive_singular:your lazy morning> a <pos_adjective:beautiful> one.
-<pos_infinitive_imperative:wake up each day> and be thankful for life. good morning!
+<pos_infinitive_imperative:wake up each day> and <pos_infinitive_imperative:be thankful for life>. good morning!
 <pos_infinitive_imperative:wake up every morning> with the thought that something wonderful is about to happen. good morning!
 <pos_infinitive_imperative:wake up with determination>, <pos_infinitive_imperative:go to bed with satisfaction>. good morning!
 <thing_possessive_singular:your love> is all i need to stay motivated throughout <time_definite:the day>. thank you for <pos_imperative_passive:being so inspiring>. good morning!
@@ -48,10 +48,10 @@ each morning we are born again, what we do <day:today> is what matters most. <po
 each new morning <vp_presens:brings you a special gift>. the <neg_indefinite_plural:mistakes> of <day:yesterday> are gone. <pos_infinitive_imperative:use the day> to avoid the <neg_indefinite_plural:mistakes> of <day:tomorrow>.
 even the smallest thoughts have the potential to become the biggest successes. all you have to do is <pos_infinitive_imperative:get up> and <pos_infinitive_imperative:get going>. good morning!
 every <time_indefinite:day> <vp_presens:holds the possibility of a miracle>. good morning! <pos_infinitive_imperative:have a nice day>.
-every <time_indefinite:day> is a new beginning. take <pos_definite_singular:a deep breath>, <pos_infinitive_imperative:smile> and start again. good morning!
+every <time_indefinite:day> is a new beginning. <pos_infinitive_imperative:take a deep breath>, <pos_infinitive_imperative:smile> and start again. good morning!
 every <time_indefinite:day> may not be good, but there is something good in every <time_indefinite:day>. good morning!
 every <time_indefinite:morning> <vp_presens:starts a new page in your story>. <pos_infinitive_imperative:make it a great one> <day:today>.
-every <time_indefinite:morning> comes with this promise - give the <pos_indefinite_plural:wings of effort> to your <pos_indefinite_plural:dreams> and <thing_possessive_singular:your life> will be full of bliss.
+every <time_indefinite:morning> comes with this promise: give the <pos_indefinite_plural:wings of effort> to your <pos_indefinite_plural:dreams> and <thing_possessive_singular:your life> will be full of bliss.
 every <time_indefinite:morning> is <pos_definite_singular:a chance at a new day>. <pos_infinitive_imperative:wake up> and <pos_infinitive_imperative:make something happen> <day:today>.
 every <time_indefinite:morning> is <pos_definite_singular:a new beginning>, <pos_definite_singular:a new blessing>, <pos_definite_singular:a new hope>. it's a perfect day because it's life's gift. <pos_infinitive_imperative:have a blessed, hopeful, perfect day>.
 every <time_indefinite:morning> is destiny's way of telling you that <thing_possessive_singular:your purpose> in life is yet to be fulfilled.
@@ -59,7 +59,7 @@ every <time_indefinite:morning> you have two options, <neg_infinitive_imperative
 every new <time_indefinite:day> is a new opportunity for <pos_indefinite_plural:success>. good morning!
 every new <time_indefinite:morning> gives you an opportunity to <pos_infinitive_imperative:make someone's day better>.
 every new <time_indefinite:morning> gives you the chance to <pos_infinitive_imperative:learn>, to strive, and to <pos_infinitive_imperative:be better than you were the day before>.
-good morning - this is not just <pos_definite_singular:a greeting>. it signifies a hope that the <pos_adjective:beautiful> <time_indefinite:morning> will bring <pos_definite_singular:a smile> on <thing_possessive_singular:your face> and <pos_indefinite_plural:happiness> in <thing_possessive_singular:your life>.
+good morning! this is not just <pos_definite_singular:a greeting>. it signifies a hope that the <pos_adjective:beautiful> <time_indefinite:morning> will bring <pos_definite_singular:a smile> on <thing_possessive_singular:your face> and <pos_indefinite_singular:happiness> in <thing_possessive_singular:your life>.
 good morning! <pos_adjective:beautiful> <time_indefinite:day> isn't it? <pos_infinitive_imperative:go out>, <pos_infinitive_imperative:hang with friends> and <pos_infinitive_imperative:have fun>!
 good morning! <pos_indefinite_singular:another day>, <pos_indefinite_singular:another blessing> and <pos_indefinite_singular:another chance at life>. <pos_infinitive_imperative:take nothing for granted> and think of every breath as <pos_definite_singular:a gift>.
 good morning! <pos_indefinite_singular:life> laughs at you when you are <neg_adjective:unhappy>. life smiles at you when you are <pos_adjective:happy>, but life salutes you when you <pos_infinitive_imperative:make others happy>.
@@ -77,7 +77,7 @@ good morning. every <thing_pos_indefinite_singular:sunset> gives us one <time_in
 good morning. let <thing_possessive_singular:your soul> expand, let <thing_possessive_singular:your heart> reach out to others in loving and generous warmth, and great and lasting will be <thing_possessive_singular:your joy> and prosperity will come to you.
 good morning. let me love you if not for <time_definite:the rest of your life> then for the rest of mine.
 greet <time_definite:the morning> right, and you will <pos_infinitive_imperative:feel good about yourself>. it is an attitude you can use when relating to others. <pos_infinitive_imperative:treat them right>, and you will <pos_infinitive_imperative:feel good about yourself>.
-having a rough <time_indefinite:morning>? <pos_infinitive_imperative:place your hand over your heart>. feel that? that's called purpose. you're alive for a reason. don't give up.
+having a rough <time_indefinite:morning>? <pos_infinitive_imperative:place your hand over your heart>. feel that? that's called purpose. you're alive for a reason. <pos_infinitive_imperative:don't give up>.
 hello, good morning! i hope you <pos_infinitive_imperative:have a ridiculously amazing day>!
 hey... are you up yet? i wanted to <pos_infinitive_imperative:say good morning>.
 how to have a lovely <time_indefinite:day>: <pos_infinitive_imperative:smile at strangers>, <pos_infinitive_imperative:slow down>, <pos_infinitive_imperative:say thank you>, give lots of <pos_indefinite_plural:compliments>, <pos_infinitive_imperative:dress nicely>, <pos_infinitive_imperative:wear perfume>, <pos_infinitive_imperative:observe> and <pos_infinitive_imperative:listen>, <pos_infinitive_imperative:be charming>, <pos_infinitive_imperative:laugh> and <pos_infinitive_imperative:wish others a lovely day>.
@@ -93,7 +93,7 @@ if someone seriously wants to be part of you life, they need to seriously <pos_i
 if you want to make your <pos_indefinite_plural:dreams> come true, the first thing to do is <pos_infinitive_imperative:wake up>. good morning!
 it costs $0.00 to <pos_infinitive_imperative:be grateful for what you have>. good morning!
 it's only <pos_definite_singular:a good morning> when i know i have you.
-just in case no one has told you <day:today> - good morning, i believe in you, you're doing great.
+just in case no one has told you <day:today>; good morning, i believe in you, you're doing great.
 just the thought of you brightens up my <time_indefinite:morning>.
 let go of all the <neg_indefinite_plural:desires> that hinder <thing_possessive_singular:your progress> and move towards <thing_possessive_singular:your purpose>. <pos_infinitive_imperative:have a nice day>! good morning!
 life always <vp_presens:offers you a second chance>. it’s called <day:tomorrow>. good morning!
@@ -108,8 +108,8 @@ set a goal that makes you want to <pos_infinitive_imperative:jump out of bed in 
 some <time_indefinite:day>s you just have to <pos_infinitive_imperative:create your own sunshine>. good morning!
 stop <neg_imperative_passive:thinking of what could go wrong> and start <pos_imperative_passive:thinking of what could go right>. good morning.
 the <pos_indefinite_plural:dreams> you had last night can only come to reality if you <pos_infinitive_imperative:get up> and work at achieving them <day:today>. so, don’t waste any more time, <pos_infinitive_imperative:get out there and do your best>. good morning.
-the <pos_indefinite_plural:happiness> of <thing_possessive_singular:your life> depends upon the quality of your <pos_indefinite_plural:thoughts>, so <pos_infinitive_imperative:think happy and positive thoughts>. good morning!
-the <time_indefinite:night> tells you that everything is grim. but the <time_indefinite:morning> brings <pos_definite_singular:the message of hope> and <pos_definite_singular:the message that things are not as bad as they seem>.
+the <pos_indefinite_singular:happiness> of <thing_possessive_singular:your life> depends upon the quality of your <pos_indefinite_plural:thoughts>, so <pos_infinitive_imperative:think happy and positive thoughts>. good morning!
+the <time_indefinite:night> tells you that everything is grim, but the <time_indefinite:morning> brings <pos_definite_singular:the message of hope> and <pos_definite_singular:the message that things are not as bad as they seem>.
 the beauty of <pos_definite_singular:the morning> is wasted on those who <neg_infinitive_imperative:sleep through it>. don’t be like them. <pos_infinitive_imperative:capture the day>. <pos_infinitive_imperative:get a head start on those who waste the beauty freely granted to them>.
 the importance of <pos_indefinite_singular:good people> in our life is just like the importance of <pos_indefinite_plural:heartbeats>... it's not visible but it <vp_presens:silently supports our life>... good morning.
 the line between <neg_indefinite_singular:failure> and <pos_indefinite_singular:success> is so fine, that we are often on the line and do not know it. good morning.
@@ -120,11 +120,11 @@ the world is full of <pos_indefinite_plural:nice people>. if you can't find one,
 this <time_indefinite:morning> is what it is because you were what you were <day:yesterday>. <pos_infinitive_imperative:be what you should be> <day:today> so that you can <pos_infinitive_imperative:be what you want to become> <day:tomorrow>.
 this <time_indefinite:morning> will never ever come back in <thing_possessive_singular:your life> again. <pos_infinitive_imperative:get up> and make the most of it. good morning!
 this is not just another <time_indefinite:day>, this is yet another chance to make your <pos_indefinite_plural:dreams> come true. good morning!
-to <pos_infinitive_imperative:become great>, you need to do great things - one of which is <pos_imperative_passive:waking up early in the morning>.
+to <pos_infinitive_imperative:become great>, you need to do great things; one of which is <pos_imperative_passive:waking up early in the morning>.
 wake in <time_definite:the morning> with <pos_definite_singular:a winged heart> and give <pos_indefinite_plural:thanks> for another day of loving.
 wake up and face <neg_indefinite_plural:life’s challenges> head-on. else, life will become quite <neg_definite_singular:a challenge>. good morning!
 when the sun’s rays first appear over the horizon, we are reminded that there is always something good about <pos_definite_singular:the day>.
-when you <pos_infinitive_imperative:arise in the morning>, <pos_infinitive_imperative:think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love>.
+when you <pos_infinitive_imperative:arise in the morning>, <pos_infinitive_imperative:think of what a precious privilege it is to be alive; to breathe, to think, to enjoy, to love>.
 when you <pos_infinitive_imperative:arise in the morning>, think of what <pos_definite_singular:a precious privilege> it is to be alive, to breathe, to think, to enjoy, to love.
 when you <pos_infinitive_imperative:do something beautiful> and nobody noticed, don't <neg_infinitive_imperative:be sad>. for the sun every morning is <pos_definite_singular:a beautiful spectacle> and yet most of the audience still sleeps.
 when you <pos_infinitive_imperative:start each day> with <pos_definite_singular:a grateful heart>, light <vp_presens:illuminates you from within>.

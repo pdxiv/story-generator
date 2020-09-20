@@ -8,9 +8,9 @@ When <person:President Davidson> heads to <place:Transylvania>, <person:Decker> 
 <person:Lanoi> reveals new concerns about <person:Decker> to <person:Special Agent Kington>.
 <thing:Kington's dream cruise> <vp_presens:turns into a nightmare> due to <thing:terrorism>. Meanwhile, <person:Decker> <vp_presens:discovers his other true calling>: <thing:rock 'n roll>. 
 <person:Decker> returns to <place:the White House> to inform <person:President Davidson> of <thing:the "Manhattan Incident">.
-<person:Decker> <vp_presens:uses his CIA training> to gain <thing:hard-hitting intel>.
+<person:Decker> <vp_presens:uses his CIA training to gain hard-hitting intel>.
 Fresh from <place:Hawaii>, <person:Decker> must confront and defeat <thing:a new grave terror> that <vp_presens:threatens every man woman and child on planet earth>!
-<person:Special Agent Jack Decker> finds himself in <place:a treacherous situation> with no one but <person:master codebreaker Jonathan Kington> to help. Working together, they must <action:stop a horrible evil and its sinister plans>.
+<person:Special Agent Jack Decker> <vp_presens:finds himself in a treacherous situation> with no one but <person:master codebreaker Jonathan Kington> to help. Working together, they must <action:stop a horrible evil and its sinister plans>.
 After <person:a fellow veteran> <vp_presens:is murdered>, <person:Decker>'s search for <thing:the truth> leads him to take on <thing:the healthcare system>. 
 <person:Decker> and <person:Kington> infiltrate <place:the terrorists' secret compound>. A disgraced <person:President Davidson> <vp_presens:looks back on his legacy>.
 In the season finale, <person:Decker Jr.> and his friends visit <place:his father's burial site>. Meanwhile, <person:a powerful enemy> <vp_presens:prepares for his revenge>.
@@ -25,7 +25,7 @@ With <thing:an energy crisis> plaguing <place:America>, <person:Jack Decker> and
 In <thing:the season premiere>, <thing:a traumatic experience> leaves <person:Decker> in rough shape. <person:Davidson> recounts a time when <person:Decker> helped him <action:win a presidential election>.
 With nowhere to turn and danger looming, <person:Agent Jonathan Kington> finds <person:a new champion of American freedom> - now he just has to convince him to <action:join the team>.
 <person:Decker> <vp_presens:goes back in time> to stop one of the largest attacks against <place:America>. Will he <action:succeed>, or will he <action:alter the course of human history> forever?
-With <thing:an explosive suitcase> in-hand, <person:Decker> <vp_presens:struggles to get answers> from <person:the President>'s tight-lipped code expert. Will he <action:break the three-digit code> and <action:reveal the sensitive information> contained within <thing:the case>? Or will <thing:the explosion> <action:destroy the United States capital> and <thing:two centuries' worth of American history>?
+With <thing:an explosive suitcase> in-hand, <person:Decker> <vp_presens:struggles to get answers from the President's tight-lipped code expert>. Will he <action:break the three-digit code> and <action:reveal the sensitive information> contained within <thing:the case>? Or will <thing:the explosion> <action:destroy the United States capital> and <thing:two centuries' worth of American history>?
 With <person:Decker>'s guidance, <person:Kington> <vp_presens:learns the true meaning of why good men fight>.
 <person:Decker> <vp_presens:takes to the water> on <thing:a specially built jet ski>. Meanwhile, <person:Kington> acquires <thing:a tape> from <thing:a suspicious source>.
 <person:Decker> and <person:Kington> decide the only way forward is through jungle warfare.
@@ -35,13 +35,13 @@ With <person:Decker>'s guidance, <person:Kington> <vp_presens:learns the true me
 With time running out for <person:the president>, <person:Decker> <vp_presens:comes up with an ingenious plan to gain new intel>.
 <person:Decker> <vp_presens:takes to the jungle> in an aggressive attack against <thing:the Taliban>.
 <person:Decker Jr.> and others learn the importance of <thing:the stars and stripes> through <thing:the power of the movies>. 
-<person:Decker> reconnects with <thing:his oldest and dearest friend>, <person:Lanoi Arnold>. As celebration, he <vp_presens:performs his hit song>.
+<person:Decker> reconnects with <person:his oldest and dearest friend>, <person:Lanoi Arnold>. As celebration, he <vp_presens:performs his hit song>.
 <derp:Framed for a crime he didn't commit>, <person:Decker> has forty-eight hours to clear his name. 
 <person:Decker> tracks down <person:Agent Kington> and <vp_presens:learns a deeply hidden secret>.
 Young recruit <person:Jack Decker> <vp_presens:rallies against the pc-culture> around him to save <thing:hundreds of innocent heroes>.
 While on the job for his famous security business, <person:Decker> <vp_presens:becomes close with a top client>. 
 <person:Decker> <vp_presens:continues his jungle assault> only to come across <thing:a massive breach in security>.
-Buckling to pressure, <person:Decker> <vp_presens:makes a fateful decision>.
-<person:Decker> and <person:Kington>'s trek through <place:the desert> turns into <thing:a bumpier ride than expected> when <person:Kington> <vp_presens:experiences health issues>.
+<derp:Buckling to pressure>, <person:Decker> <vp_presens:makes a fateful decision>.
+<person:Decker> and <person:Kington>'s trek through <place:the desert> <vp_presens:turns into a bumpier ride than expected> when <person:Kington> <vp_presens:experiences health issues>.
 <person:President Decker Jr.> and his subordinate <person:Kington> go on <thing:an other worldly mission> in <thing:the season finale>. 
 <derp:Trapped in a terrorist hideout with no options>, <person:Decker> turns to <person:Kington> in <thing:a last ditch effort for freedom>.
