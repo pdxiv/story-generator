@@ -1,47 +1,47 @@
-(Special Agent Kington) embarks to {Transylvania}, where he must face [a horrifying trio]!
-With (Decker) in the field, (President Davidson) calls (Kington) for the latest updates.
-Special agent (Jack Decker) <takes on terror threats> in {Afghanistan} to keep [the world we know] safe and secure. When (the President himself) is too scared to take on [Al Qaeda], (Decker) steps in to extract valuable information from his source- information that could shake [the very foundations of our free world].
-(Decker) is back! This time he's relaxing beachside on {the beautiful and reclusive island of Hawaii}. Not even calls from (the president) can stop this R&R.
-When (President Davidson) heads to {Transylvania}, (Decker) must assume the most powerful position in {the free world}!
-(Decker Jr.) and (a resurrected Kington) battle [a ghastly male-genocide device] initiated by (Dracula).
-[Supergroup "Dekkar"] infiltrates [the world's most powerful terrorist group]. In the process, (Decker) <learns the true meaning of friendship> from one of his closest allies.
-(Lanoi) reveals new concerns about (Decker) to (Special Agent Kington).
-(Kington)'s dream cruise <turns into a nightmare> due to [terrorism]. Meanwhile, (Decker) <discovers his other true calling>: [rock 'n roll]. 
-(Decker) returns to {the White House} to inform (President Davidson) of [the "Manhattan Incident"].
-(Decker) <uses his CIA training> to gain [hard-hitting intel].
-Fresh from {Hawaii}, (Decker) must confront and defeat [a new grave terror] that <threatens every man woman and child on planet earth>!
-(Special Agent Jack Decker) finds himself in {a treacherous situation} with no one but (master codebreaker Jonathan Kington) to help. Working together, they must stop [a horrible evil and its sinister plans].
-After (a fellow veteran) <is murdered>, (Decker)'s search for [the truth] leads him to take on [the healthcare system]. 
-(Decker) and (Kington) infiltrate {the terrorists' secret compound}. A disgraced (President Davidson) <looks back on his legacy>.
-In the season finale, (Decker Jr.) and his friends visit {his father's burial site}. Meanwhile, [a powerful enemy] <prepares for his revenge>.
-In order to save [the nation], (Decker) must come face-to-face with [pure evil].
-After making his way into {the Oval Office}, (Decker) tells (the president) the hard facts about [the terrorist nuclear threat]. Does (President Davidson) have enough integrity to give (Jack Decker) [the resources] he needs to fight terror, or will (our hero) have to take [things] into his own hands?
-The future of (Decker)'s vacation is placed in peril. Will he shun responsibility, or will he step up to the challenge?
-The suitcase has been opened, the nuclear threat analyzed, and, to (Decker), the course of action is clear. Will the weak-willed (president Davidson) allow (Decker) to do what's necessary to protect [America's citizens]? What sacrifices will have to be made to save [our nation]?
-(Decker)'s family vacation in {Hawaii} is interrupted by [breaking news].
-(Decker) <attempts a risky plan> that, if completed, will gain him access to {the location of every terrorist on the island}.
-With {Hawaii} on the brink of destruction, (President Davidson) calls (Decker) for [the latest intel].
-With [an energy crisis] plaguing {America}, (Jack Decker) and (Agent Kington) discover [a powerful organization] at [the root of it all]. 
-In [the season premiere], [a traumatic experience] leaves (Decker) in rough shape. (Davidson) recounts a time when (Decker) helped him win [a presidential election].
-With nowhere to turn and danger looming, (Agent Jonathan Kington) finds (a new champion of American freedom) - now he just has to convince him to join [the team].
-(Decker) <goes back in time> to stop one of the largest attacks against {America}. Will he succeed, or will he alter [the course of human history] forever?
-With [an explosive suitcase] in-hand, (Decker) <struggles to get answers> from (the President)'s tight-lipped code expert. Will he break [the three-digit code] and reveal [the sensitive information] contained within [the case]? Or will [the explosion] destroy {the United States capital} and [two centuries' worth of American history]?
-With (Decker)'s guidance, (Kington) <learns the true meaning of why good men fight>.
-(Decker) <takes to the water> on [a specially built jet ski]. Meanwhile, (Kington) acquires [a tape] from [a suspicious source].
-(Decker) and (Kington) decide the only way forward is through jungle warfare.
-(Decker) learns (a fellow patriot) might not be all that he seems. He <goes on the hunt>, ready for revenge.
-(Decker) <declares the time for strategy is over>. They must take action or {the island}, and {America}, will be lost.
-(Decker) is visited by his oldest friend, (Lanoi), who tells the story of [a much-needed vacation] in {New Orleans}.
-With time running out for (the president), (Decker) <comes up with an ingenious plan to gain new intel>.
-(Decker) <takes to the jungle> in an aggressive attack against [the Taliban].
-(Decker Jr.) and others learn the importance of [the stars and stripes] through [the power of the movies]. 
-(Decker) reconnects with [his oldest and dearest friend], (Lanoi Arnold). As celebration, he <performs his hit song>.
-Framed for [a crime he didn't commit], (Decker) has forty-eight hours to clear his name. 
-(Decker) tracks down (Agent Kington) and learns [a deeply hidden secret].
-Young recruit (Jack Decker) rallies against [the pc-culture] around him to save [hundreds of innocent heroes].
-While on the job for his famous security business, (Decker) becomes close with [a top client]. 
-(Decker) <continues his jungle assault> only to come across [a massive breach in security].
-Buckling to pressure, (Decker) <makes a fateful decision>.
-(Decker) and (Kington)'s trek through {the desert} turns into [a bumpier ride than expected] when (Kington) experiences [health issues].
-(President Decker Jr.) and his subordinate (Kington) go on [an other worldly mission] in [the season finale]. 
-Trapped in {a terrorist hideout} with no options, (Decker) turns to (Kington) in [a last ditch effort for freedom].
+<person:Special Agent Kington> embarks to <place:Transylvania>, where he must face <thing:a horrifying trio>!
+With <person:Decker> in the field, <person:President Davidson> calls <person:Kington> for the latest updates.
+Special agent <person:Jack Decker> <vp_presens:takes on terror threats> in <place:Afghanistan> to keep <thing:the world we know> safe and secure. When <person:the President himself> is too scared to take on <thing:Al Qaeda>, <person:Decker> steps in to extract valuable information from his source- information that could shake <thing:the very foundations of our free world>.
+<person:Decker> is back! This time he's relaxing beachside on <place:the beautiful and reclusive island of Hawaii>. Not even calls from <person:the president> can stop this R&R.
+When <person:President Davidson> heads to <place:Transylvania>, <person:Decker> must assume the most powerful position in <place:the free world>!
+<person:Decker Jr.> and <person:a resurrected Kington> battle <thing:a ghastly male-genocide device> initiated by <person:Dracula>.
+<thing:Supergroup "Dekkar"> infiltrates <thing:the world's most powerful terrorist group>. In the process, <person:Decker> <vp_presens:learns the true meaning of friendship> from one of his closest allies.
+<person:Lanoi> reveals new concerns about <person:Decker> to <person:Special Agent Kington>.
+<person:Kington>'s dream cruise <vp_presens:turns into a nightmare> due to <thing:terrorism>. Meanwhile, <person:Decker> <vp_presens:discovers his other true calling>: <thing:rock 'n roll>. 
+<person:Decker> returns to <place:the White House> to inform <person:President Davidson> of <thing:the "Manhattan Incident">.
+<person:Decker> <vp_presens:uses his CIA training> to gain <thing:hard-hitting intel>.
+Fresh from <place:Hawaii>, <person:Decker> must confront and defeat <thing:a new grave terror> that <vp_presens:threatens every man woman and child on planet earth>!
+<person:Special Agent Jack Decker> finds himself in <place:a treacherous situation> with no one but <person:master codebreaker Jonathan Kington> to help. Working together, they must stop <thing:a horrible evil and its sinister plans>.
+After <person:a fellow veteran> <vp_presens:is murdered>, <person:Decker>'s search for <thing:the truth> leads him to take on <thing:the healthcare system>. 
+<person:Decker> and <person:Kington> infiltrate <place:the terrorists' secret compound>. A disgraced <person:President Davidson> <vp_presens:looks back on his legacy>.
+In the season finale, <person:Decker Jr.> and his friends visit <place:his father's burial site>. Meanwhile, <thing:a powerful enemy> <vp_presens:prepares for his revenge>.
+In order to save <thing:the nation>, <person:Decker> must come face-to-face with <thing:pure evil>.
+After making his way into <place:the Oval Office>, <person:Decker> tells <person:the president> the hard facts about <thing:the terrorist nuclear threat>. Does <person:President Davidson> have enough integrity to give <person:Jack Decker> <thing:the resources> he needs to fight terror, or will <person:our hero> have to take <thing:things> into his own hands?
+The future of <person:Decker>'s vacation is placed in peril. Will he shun responsibility, or will he step up to the challenge?
+The suitcase has been opened, the nuclear threat analyzed, and, to <person:Decker>, the course of action is clear. Will the weak-willed <person:president Davidson> allow <person:Decker> to do what's necessary to protect <thing:America's citizens>? What sacrifices will have to be made to save <thing:our nation>?
+<person:Decker>'s family vacation in <place:Hawaii> is interrupted by <thing:breaking news>.
+<person:Decker> <vp_presens:attempts a risky plan> that, if completed, will gain him access to <place:the location of every terrorist on the island>.
+With <place:Hawaii> on the brink of destruction, <person:President Davidson> calls <person:Decker> for <thing:the latest intel>.
+With <thing:an energy crisis> plaguing <place:America>, <person:Jack Decker> and <person:Agent Kington> discover <thing:a powerful organization> at <thing:the root of it all>. 
+In <thing:the season premiere>, <thing:a traumatic experience> leaves <person:Decker> in rough shape. <person:Davidson> recounts a time when <person:Decker> helped him win <thing:a presidential election>.
+With nowhere to turn and danger looming, <person:Agent Jonathan Kington> finds <person:a new champion of American freedom> - now he just has to convince him to join <thing:the team>.
+<person:Decker> <vp_presens:goes back in time> to stop one of the largest attacks against <place:America>. Will he succeed, or will he alter <thing:the course of human history> forever?
+With <thing:an explosive suitcase> in-hand, <person:Decker> <vp_presens:struggles to get answers> from <person:the President>'s tight-lipped code expert. Will he break <thing:the three-digit code> and reveal <thing:the sensitive information> contained within <thing:the case>? Or will <thing:the explosion> destroy <place:the United States capital> and <thing:two centuries' worth of American history>?
+With <person:Decker>'s guidance, <person:Kington> <vp_presens:learns the true meaning of why good men fight>.
+<person:Decker> <vp_presens:takes to the water> on <thing:a specially built jet ski>. Meanwhile, <person:Kington> acquires <thing:a tape> from <thing:a suspicious source>.
+<person:Decker> and <person:Kington> decide the only way forward is through jungle warfare.
+<person:Decker> learns <person:a fellow patriot> might not be all that he seems. He <vp_presens:goes on the hunt>, ready for revenge.
+<person:Decker> <vp_presens:declares the time for strategy is over>. They must take action or <place:the island>, and <place:America>, will be lost.
+<person:Decker> is visited by his oldest friend, <person:Lanoi>, who tells the story of <thing:a much-needed vacation> in <place:New Orleans>.
+With time running out for <person:the president>, <person:Decker> <vp_presens:comes up with an ingenious plan to gain new intel>.
+<person:Decker> <vp_presens:takes to the jungle> in an aggressive attack against <thing:the Taliban>.
+<person:Decker Jr.> and others learn the importance of <thing:the stars and stripes> through <thing:the power of the movies>. 
+<person:Decker> reconnects with <thing:his oldest and dearest friend>, <person:Lanoi Arnold>. As celebration, he <vp_presens:performs his hit song>.
+Framed for <thing:a crime he didn't commit>, <person:Decker> has forty-eight hours to clear his name. 
+<person:Decker> tracks down <person:Agent Kington> and learns <thing:a deeply hidden secret>.
+Young recruit <person:Jack Decker> rallies against <thing:the pc-culture> around him to save <thing:hundreds of innocent heroes>.
+While on the job for his famous security business, <person:Decker> becomes close with <thing:a top client>. 
+<person:Decker> <vp_presens:continues his jungle assault> only to come across <thing:a massive breach in security>.
+Buckling to pressure, <person:Decker> <vp_presens:makes a fateful decision>.
+<person:Decker> and <person:Kington>'s trek through <place:the desert> turns into <thing:a bumpier ride than expected> when <person:Kington> experiences <thing:health issues>.
+<person:President Decker Jr.> and his subordinate <person:Kington> go on <thing:an other worldly mission> in <thing:the season finale>. 
+Trapped in <place:a terrorist hideout> with no options, <person:Decker> turns to <person:Kington> in <thing:a last ditch effort for freedom>.
