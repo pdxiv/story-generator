@@ -16,9 +16,10 @@ foreach my $template_line (@story_template) {
 }
 
 my %tagged_phrase_list;
-foreach my $tag ( keys %tag_stats ) {
-    foreach my $phrase ( keys %{ $tag_stats{$tag} } ) {
+foreach my $tag ( sort keys %tag_stats ) {
+    foreach my $phrase ( sort keys %{ $tag_stats{$tag} } ) {
         push @{ $tagged_phrase_list{$tag} }, $phrase;
+        # print "DEBUG: $tag: $phrase\n";
     }
 }
 
