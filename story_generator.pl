@@ -24,11 +24,12 @@ foreach my $tag ( keys %tag_stats ) {
 
 my $story_line = $story_template[ int( rand( scalar @story_template ) ) ];
 
-while ( $story_line =~ /$tagging_pattern/ ) {
+while ( $story_line =~ /$tagging_pattern/ ) {    
     my $random_phrase = random_phrase_by_tag($1);
     $story_line =~ s/$tagging_pattern/$random_phrase/;
 }
 
+chomp $story_line;
 print "$story_line\n";
 
 sub random_phrase_by_tag {
